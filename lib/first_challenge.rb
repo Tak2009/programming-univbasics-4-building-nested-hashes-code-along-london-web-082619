@@ -3,15 +3,15 @@ def first_challenge
   :montague => {
     :patriarch => {
       :name => ,
-      :age => 
+      :age =>
   },
     :matriarch => {
       :name => ,
-      :age => 
+      :age =>
   },
     :hero => {
       :name => ,
-      :age => 
+      :age =>
   }
 }
 end    
