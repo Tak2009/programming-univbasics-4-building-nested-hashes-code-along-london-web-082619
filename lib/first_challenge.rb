@@ -1,18 +1,6 @@
 def first_challenge
    epic_tragedy = {
-  :montague => {
-    :patriarch => {
-      :name => ,
-      :age =>
-  },
-    :matriarch => {
-      :name => ,
-      :age =>
-  },
-    :hero => {
-      :name => ,
-      :age =>
-  }
-}
+  "Kimoto Susumu" => {:name => , age => },
+  "Kimoto Etsuko" => {:name => , age => }  
 }
 end
