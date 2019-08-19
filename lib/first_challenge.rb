@@ -1,6 +1,6 @@
 def first_challenge
    epic_tragedy = {
-  "Kimoto Susumu" => {:name =>, :age => },
-  "Kimoto Etsuko" => {:name => :age => }
+  "first_last1" => {name: , age: },
+  "first_last2" => {name: , age: }
 }
 end
